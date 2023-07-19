@@ -11,3 +11,5 @@ I am oriented to front end solutions using HTML, CSS, JavaScript and React Frame
 karuirujackson/karuirujackson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<a href="https://app.daily.dev/Karuiru_J"><img src="https://api.daily.dev/devcards/3bb0a7845d2d489ea263ed6e0e1d23cf.png?r=e2e" width="400" alt="Jackson Karuiru's Dev Card"/></a>
