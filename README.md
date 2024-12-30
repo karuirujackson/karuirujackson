@@ -1,6 +1,6 @@
                                                       HELLO WORLD!
 I’m Karuiru Jackson. A Geospatial Engineer and a Front End Developer from Nairobi, Kenya 🇰🇪.
-I am oriented to front end solutions using HTML, CSS, JavaScript, Next.JS and React Framework. Equally experienced in spatial environment in Geoserver, PostGIS and Postgresql. Providing solutions to web development is a skillset I'm continually sharpening everyday.
+I am oriented to front end solutions using HTML, CSS, JavaScript, Next.Js, Node.Js and React Framework. Equally experienced in spatial environment in Geoserver, PostGIS and Postgresql. Providing solutions to web development is a skillset I'm continually sharpening everyday.
 -  👋 Hi, I’m interested in interactive and collaborative experiences in both GIS world and Front End Development.
 - 🌱 I’m currently a freelance Front-End Developer.
 - 💞️ I Built and maintains my website where I ocassionally write blog posts and updates on my projects.
